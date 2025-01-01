@@ -1,0 +1,3 @@
+callbacks logic concepts;
+callbacks are the function which can be passed to another function as a arguments which can be called in the future
+to operate in a asyncronously;
