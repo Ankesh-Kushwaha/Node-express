@@ -1,7 +1,5 @@
 const Book=require('../models/Book')
 
-
-
 const getAllBooks = async (req, res) => {
   try {
     const allBooks = await Book.find({});
